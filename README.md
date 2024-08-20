@@ -1,1 +1,0 @@
-# Carwash_NextJS
